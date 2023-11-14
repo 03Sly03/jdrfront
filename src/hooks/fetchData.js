@@ -1,6 +1,6 @@
-async function datatest(url) {
+async function fetchData(url) {
     const response = await fetch(url);
     return await response.json();
 }
 
-export default datatest;
+export default fetchData;
