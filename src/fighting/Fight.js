@@ -1,3 +1,3 @@
 const Fight = () => {
-    console.log("the Fight", )
+    console.log("the Fight");
 }
